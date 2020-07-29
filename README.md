@@ -1,0 +1,1 @@
+In this project I have used python open cv module for hand gesture detection and pyautogui for making movements from keyboard according to the hand gestures.
